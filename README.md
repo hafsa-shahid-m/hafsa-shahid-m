@@ -42,7 +42,7 @@ I'm aiming for product / full-stack development, using AI as a tool to build bet
 Google · IBM · Meta <!-- better: list the exact certificate names + links -->
 
 ## Stats
-![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsa-shahid-m&show_icons=true&hide_border=true)
 
 ## Let's connect
-[LinkedIn](your-link) · [Email](mailto:your-email)
+[LinkedIn](https://www.linkedin.com/in/hafsa-shahid-m/) · [Email](mailto:hafsashahid.m@gmail.com)
