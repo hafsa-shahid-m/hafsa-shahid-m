@@ -34,15 +34,15 @@ I'm aiming for product / full-stack development, using AI as a tool to build bet
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Featured projects
-- **[SaveBite](link)**: Flutter app for reducing food waste. *(1 line on what you built)*
+- **[SaveBite]([link](https://github.com/hafsa-shahid-m/SaveBite))**: Flutter app for reducing food waste. *(1 line on what you built)*
 - **[Car Rental Management System](link)**: C# / WPF desktop app. *(1 line)*
-- **[Project name](link)**: *(1 line)*
+  <!-- - **[Project name](link)**: *(1 line)* -->
 
 ## Certifications
 Google · IBM · Meta <!-- better: list the exact certificate names + links -->
 
-## Stats
-![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsa-shahid-m&show_icons=true&hide_border=true)
+<!--## Stats
+![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsa-shahid-m&show_icons=true&hide_border=true) -->
 
 ## Let's connect
 [LinkedIn](https://www.linkedin.com/in/hafsa-shahid-m/) · [Email](mailto:hafsashahid.m@gmail.com)
