@@ -34,8 +34,8 @@ I'm aiming for product / full-stack development, using AI as a tool to build bet
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Featured projects
-- **[SaveBite]([link](https://github.com/hafsa-shahid-m/SaveBite))**: Flutter app for reducing food waste. *(1 line on what you built)*
-- **[Car Rental Management System](link)**: C# / WPF desktop app. *(1 line)*
+- **[SaveBite]((https://github.com/hafsa-shahid-m/SaveBite))**: Flutter app for reducing food waste. 
+- **[Car Rental Management System](link)**: C# / WPF desktop app. 
   <!-- - **[Project name](link)**: *(1 line)* -->
 
 ## Certifications
